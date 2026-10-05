@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="avatar.png" width="180" alt="Avatar">
+</p>
+
 ### 👋 About Me:
 
 Hello, I am **Wexaro**. I enjoy creating websites and designs in the Minecraft space. ⛏️🧱
